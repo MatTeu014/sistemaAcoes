@@ -77,7 +77,7 @@ namespace sistemaAcoes.View
 
 
                     ControllerAtivo controllerativo = new ControllerAtivo();
-                    controllerativo.CadastrarAtivo();
+                    controllerativo.DeletarAtivo();
                 }
                 else
                 {
